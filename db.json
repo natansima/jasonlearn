@@ -7,10 +7,9 @@
       "userId": 1
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "title": "Updated Project",
+      "description": "This is an updated project.",
+      "id": 3
     }
   ],
   "tasks": [
@@ -23,11 +22,6 @@
       "id": 2,
       "projectId": 1,
       "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
     }
   ]
 }
